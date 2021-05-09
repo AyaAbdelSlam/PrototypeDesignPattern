@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.exe
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+C:\Users\ahemaid\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
